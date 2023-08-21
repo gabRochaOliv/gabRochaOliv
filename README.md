@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Gabriel 
-## 👇 Da um passada no meu linkedin 
+## 👇 Go to my linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-de-oliveira-82043b243/)
 
 <!---
