@@ -1,10 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=44C7F7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Welcome+to+my+Github+;My+name+is+Gabriel+;I'm+a+computer+science+student;Welcome+to+my+Github+;My+name+is+Gabriel+;I'm+a+computer+science+student;Welcome+to+my+Github+)](https://git.io/typing-svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-de-oliveira-82043b243/)
+[![Gabriel Rocha](https://img.shields.io/badge/Gabriel%20Rocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rocha-de-oliveira-82043b243/)
 
 #### Sobre: 
 
 - Moro em Bandeirantes-PR, Brasil
-- Estou no 5º período ciência de computação pela [UENP](https://uenp.edu.br);
+- Estou no 5º período de ciência de computação pela [UENP](https://uenp.edu.br);
 <!---
 - I have great interest in the backend area and its technologies;
 - Early morning wake-ups, praticing on days off and overcompensating;
