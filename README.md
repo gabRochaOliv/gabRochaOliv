@@ -10,7 +10,9 @@
 
 ### Atuais estudos:
 
-  <img align="center" alt="dart" height="40" width="50" src="android-icon-svgrepo-com.svg"> <img align="center" alt="css" height="40" width="50" src="https://www.svgrepo.com//show/452185/css-3.svg"> <img align="center" alt="js" height="40" width="50" src="https://www.svgrepo.com//show/353925/javascript.svg"> <img align="center" alt="java" height="40" width="50" src="https://www.svgrepo.com//show/452234/java.svg"> 
+  <img align="center" alt="dart" height="40" width="50" src="android-icon-svgrepo-com.svg"> <img align="center" alt="css" height="40" width="50" src="https://www.svgrepo.com//show/452185/css-3.svg"> <img align="center" alt="js" height="40" width="50" src="https://www.svgrepo.com//show/353925/javascript.svg"> <img align="center" alt="java" height="40" width="50" src="https://www.svgrepo.com//show/452234/java.svg">  <img align="center" alt="dart" height="40" width="50" src="android-icon-svgrepo-com.svg"> <img align="center" alt="css" height="40" width="50" src="flutter-svgrepo-com.svg"> <img align="center" alt="dart" height="40" width="50" src="android-icon-svgrepo-com.svg"> <img align="center" alt="css" height="40" width="50" src="flutter-svgrepo-com.svg">
+
+
 
   
 
