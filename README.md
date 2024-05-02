@@ -5,7 +5,7 @@
 
 - Moro em Bandeirantes-PR, Brasil;
 - Estou no 5º período de ciência de computação pela [UENP](https://uenp.edu.br);
-- Intrigado em front-end e mobile.
+- Intrigado em front-end e mobile;
 
 
 ### Atuais estudos:
