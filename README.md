@@ -3,15 +3,20 @@
 
 #### Sobre: 
 
-- Moro em Bandeirantes-PR, Brasil
+- Moro em Bandeirantes-PR, Brasil;
 - Estou no 5º período de ciência de computação pela [UENP](https://uenp.edu.br);
-<!---
-- I have great interest in the backend area and its technologies;
-- Early morning wake-ups, praticing on days off and overcompensating;
+- Intrigado em front-end e mobile.
 
-### Studying:
 
-  <img align="center" alt="dart" height="40" width="50" src="https://www.svgrepo.com/svg/353631/dart"> <img align="center" alt="css" height="40" width="50" src="https://www.svgrepo.com//show/452185/css-3.svg"> <img align="center" alt="js" height="40" width="50" src="https://www.svgrepo.com//show/353925/javascript.svg"> <img align="center" alt="react" height="40" width="50" src="https://www.svgrepo.com//show/452092/react.svg"> <img align="center" alt="nodejs" height="40" width="50" src="https://www.svgrepo.com//show/354119/nodejs-icon.svg"> <img align="center" alt="java" height="40" width="50" src="https://www.svgrepo.com//show/452234/java.svg"> <img align="center" alt="spring" height="40" width="50" src="https://www.svgrepo.com//show/376350/spring.svg">
+### Atuais estudos:
+
+  <img align="center" alt="dart" height="40" width="50" src="https://www.svgrepo.com/svg/353631/dart"> 
+  <img align="center" alt="css" height="40" width="50" src="https://www.svgrepo.com//show/452185/css-3.svg"> 
+  <img align="center" alt="js" height="40" width="50" src="https://www.svgrepo.com//show/353925/javascript.svg"> 
+  <img align="center" alt="react" height="40" width="50" src="https://www.svgrepo.com//show/452092/react.svg"> 
+  <img align="center" alt="nodejs" height="40" width="50" src="https://www.svgrepo.com//show/354119/nodejs-icon.svg"> 
+  <img align="center" alt="java" height="40" width="50" src="https://www.svgrepo.com//show/452234/java.svg"> 
+  <img align="center" alt="spring" height="40" width="50" src="https://www.svgrepo.com//show/376350/spring.svg">
   
 
 
