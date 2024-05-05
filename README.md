@@ -4,7 +4,7 @@
 #### Sobre: 
 
 - Moro em Bandeirantes-PR, Brasil;
-- Estou cursando ciência de computação na [UENP](https://uenp.edu.br) (2022-2026);
+- Estou cursando ciência da computação na [UENP](https://uenp.edu.br) (2022-2026);
 - Intrigado em front-end e mobile;
 
 
