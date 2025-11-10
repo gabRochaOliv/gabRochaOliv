@@ -4,7 +4,7 @@
 ### Sobre: 
 
 - Bandeirantes-PR, Brasil;
-- Ciência da computação na [UENP](https://uenp.edu.br) (2022-2026);
+- Ciência da computação [UENP](https://uenp.edu.br) (2022-2026);
 - Intrigado em front-end e mobile;
 
 
