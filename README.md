@@ -5,15 +5,9 @@
 </div>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/gabriel-rochade-oliveira-82043b243](https://www.linkedin.com/in/gabriel-rocha-de-oliveira-82043b243/)" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:bielrocha2003@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-  <a href="http://lattes.cnpq.br/5552801652497902" target="_blank">
-    <img src="https://img.shields.io/badge/-Lattes-4477BB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes">
-  </a>
+  <a href="https://www.linkedin.com/in/gabriel-rocha-de-oliveira-82043b243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:bielrocha2003@hotmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="http://lattes.cnpq.br/5552801652497902" target="_blank"><img src="https://img.shields.io/badge/-Lattes-4477BB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
 </div>
 
 ---
