@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-rochade-oliveira-82043b243" target="_blank">
+  <a href="[https://www.linkedin.com/in/gabriel-rochade-oliveira-82043b243](https://www.linkedin.com/in/gabriel-rocha-de-oliveira-82043b243/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:bielrocha2003@hotmail.com">
