@@ -48,7 +48,7 @@ Desenvolvedor Full Stack e estudante de **Ciência da Computação** na UENP. Fo
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gabRochaOliv/gabRochaOliv/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gabRochaOliv/gabRochaOliv/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
