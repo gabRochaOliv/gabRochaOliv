@@ -40,7 +40,7 @@ Desenvolvedor Full Stack e estudante de **Ciência da Computação** na UENP. Fo
 
 | Período | Função / Curso | Instituição / Projeto |
 | :--- | :--- | :--- |
-| **2025 - Atual** | 🎓 Pesquisador (IA) | UENP - IA no Ensino Contábil |
+| **2025 - 2025** | 🎓 Pesquisador (IA) | UENP - IA no Ensino Contábil |
 | **2024 - 2025** | 🐴 Full Stack Dev | Sistema de Gestão para Equoterapia |
 | **2023 - 2024** | 📱 Mobile Dev | App Glossário de Libras (Flutter) |
 | **2022 - 2026** | 📚 B.Sc. Comp. Sci. | UENP - Universidade Estadual do Norte do Paraná |
