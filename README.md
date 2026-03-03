@@ -58,9 +58,9 @@ Desenvolvedor Full Stack e estudante de **Ciência da Computação** na UENP. Fo
 #### 🚀 **SaaS & Soluções Comerciais**
 *Foco em **UX/UI**, **conversão** e **arquitetura escalável**.*
 
-- [**Pausa Para Ela**](https://github.com/gabRochaOliv/pause-for-her): SaaS focado em bem-estar feminino. (TypeScript, React).
-- [**Pistache**](https://github.com/gabRochaOliv/pistache) & [**Quando o Amor**](https://github.com/gabRochaOliv/quandoAmor): Landing Pages de alta conversão com estética moderna.
-- [**Gourmet**](https://github.com/gabRochaOliv/gourmet): Aplicação Web focada em experiência do usuário.
+- [**pause-for-her**](https://github.com/gabRochaOliv/pause-for-her): SaaS focado em bem-estar feminino. (TypeScript, React).
+- [**pistache**](https://github.com/gabRochaOliv/pistache) & [**quandoAmor**](https://github.com/gabRochaOliv/quandoAmor): Landing Pages de alta conversão com estética moderna.
+- [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet): Aplicação Web focada em experiência do usuário.
 
 #### 🎓 **Fundamentos de Ciência da Computação**
 *A maior parte dos meus repositórios reflete minha jornada acadêmica e aprofundamento técnico.*
