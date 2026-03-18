@@ -67,9 +67,9 @@ Fora do código, gosto de **treinar** e passar tempo com **minha família**.
 *Projetos focados em **UX/UI**, **performance** e **produtos digitais**.*
 
 - [**pause-for-her**](https://github.com/gabRochaOliv/pause-for-her): SaaS focado em bem-estar feminino com interface moderna. *(React / TypeScript)*  
-- [**pistache**](https://github.com/gabRochaOliv/pistache): Landing page para produto digital.  
+- [**pistache**](https://github.com/gabRochaOliv/pistache): Landing page para produto digital. (https://ovo-gourmet-eight.vercel.app/) 
 - [**quandoAmor**](https://github.com/gabRochaOliv/quandoAmor): Página focada em experiência visual e conversão.  
-- [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet): Aplicação web voltada para experiência do usuário.
+- [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet): Aplicação web voltada para experiência do usuário. (https://gelagourmet.shop/)
 
 ---
 
