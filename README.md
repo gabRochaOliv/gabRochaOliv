@@ -30,7 +30,7 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor **Full Stack** e estudante do último ano de **Ciência da Computação pela UENP**. Tenho experiência com **desenvolvimento web, mobile e projetos envolvendo inteligência artificial**.
+Desenvolvedor **Full Stack** e estudante do último ano de **Ciência da Computação pela [UENP](https://uenp.edu.br/)**. Tenho experiência com **desenvolvimento web, mobile e projetos envolvendo inteligência artificial**.
 
 Tenho um **forte espírito empreendedor** e gosto de estar sempre criando e testando novas ideias. Muitos dos projetos no meu GitHub refletem isso, com aplicações, experimentos e produtos digitais que desenvolvo para aprender, validar conceitos e construir soluções reais.
 
