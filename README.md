@@ -55,16 +55,47 @@ Desenvolvedor Full Stack e estudante de **Ciência da Computação** na UENP. Fo
 
 ### 📂 Projetos & Repositórios
 
-#### 🚀 **SaaS & Soluções Comerciais**
-*Foco em **UX/UI**, **conversão** e **arquitetura escalável**.*
+#### 🚀 **Aplicações Web & SaaS**
+*Projetos focados em **UX/UI**, **performance** e **produtos digitais**.*
 
-- [**pause-for-her**](https://github.com/gabRochaOliv/pause-for-her): SaaS focado em bem-estar feminino. (TypeScript, React).
-- [**pistache**](https://github.com/gabRochaOliv/pistache) & [**quandoAmor**](https://github.com/gabRochaOliv/quandoAmor): Landing Pages de alta conversão com estética moderna.
-- [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet): Aplicação Web focada em experiência do usuário.
+- [**pause-for-her**](https://github.com/gabRochaOliv/pause-for-her): SaaS focado em bem-estar feminino com interface moderna. *(React / TypeScript)*  
+- [**pistache**](https://github.com/gabRochaOliv/pistache): Landing page para produto digital.  
+- [**quandoAmor**](https://github.com/gabRochaOliv/quandoAmor): Página focada em experiência visual e conversão.  
+- [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet): Aplicação web voltada para experiência do usuário.
 
-#### 🎓 **Fundamentos de Ciência da Computação**
-*A maior parte dos meus repositórios reflete minha jornada acadêmica e aprofundamento técnico.*
+---
 
-- **Algoritmos e Estruturas de Dados**: Implementações de Árvores Binárias, Ordenação, Grafos (C, Java, Python).
-- **Inteligência Artificial**: Projetos de busca e otimização (`algorithms-IA`).
-- **Backend Acadêmico**: APIs e sistemas de controle (`api-engII`, `parking-control`).
+#### 📱 **Aplicações Mobile**
+*Projetos voltados para desenvolvimento **mobile cross-platform**.*
+
+- [**conta-libras**](https://github.com/gabRochaOliv/conta-libras): Aplicativo desenvolvido em **Flutter** com glossário de termos contábeis em **Libras**, incluindo texto, vídeo e representação gestual.
+
+---
+
+#### 🤖 **Inteligência Artificial**
+*Projetos acadêmicos relacionados a **IA e sistemas baseados em conhecimento**.*
+
+- [**basic-sistem-rbc**](https://github.com/gabRochaOliv/basic-sistem-rbc): Sistema simples baseado em **Raciocínio Baseado em Casos (RBC)**.  
+- [**basic-medicines-project**](https://github.com/gabRochaOliv/basic-medicines-project): Projeto acadêmico relacionado a sistemas de apoio com base em medicamentos.
+
+---
+
+#### 🧠 **Algoritmos & Estruturas de Dados**
+*Implementações de conceitos fundamentais da computação.*
+
+- [**sorting-algorithms**](https://github.com/gabRochaOliv/sorting-algorithms): Implementação de algoritmos clássicos de ordenação.  
+- [**binary-tree-project**](https://github.com/gabRochaOliv/binary-tree-project): Implementação e estudo de **árvores binárias**.
+
+---
+
+#### 🖥️ **Sistemas e Arquitetura de Software**
+*Projetos acadêmicos focados em **modelagem de sistemas e arquitetura de software**.*
+
+- [**emprestimoLivroMVC**](https://github.com/gabRochaOliv/emprestimoLivroMVC): Sistema de empréstimo de livros utilizando arquitetura **MVC**.  
+- [**interpretador**](https://github.com/gabRochaOliv/interpretador): Projeto acadêmico envolvendo conceitos de **interpretadores e linguagens**.
+---
+💡 Tem bastante coisa ai né?
+
+Esses são alguns dos projetos presentes no meu GitHub.  
+Para ver todos os repositórios, experimentos e projetos acadêmicos, confira a aba de repositórios no meu perfil:  
+👉 https://github.com/gabRochaOliv?tab=repositories
