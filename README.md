@@ -30,7 +30,15 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor Full Stack e estudante de **Ciência da Computação** na UENP. Focado em criar soluções com impacto real, unindo tecnologia, acessibilidade e inovação. Experiência em desenvolvimento web, mobile e inteligência artificial.
+Desenvolvedor **Full Stack** e estudante do último ano de **Ciência da Computação pela UENP**. Tenho experiência com **desenvolvimento web, mobile e projetos envolvendo inteligência artificial**.
+
+Tenho um **forte espírito empreendedor** e gosto de estar sempre criando e testando novas ideias. Muitos dos projetos no meu GitHub refletem isso, com aplicações, experimentos e produtos digitais que desenvolvo para aprender, validar conceitos e construir soluções reais.
+
+Sou uma pessoa **comunicativa**, gosto de trabalhar em equipe e tenho bastante atenção aos detalhes no desenvolvimento de software.
+
+Além da área de tecnologia, também tenho interesse em **empreendedorismo e marketing digital**, áreas que venho explorando em paralelo aos meus projetos.
+
+Fora do código, gosto de **treinar** e passar tempo com **minha família**.
 
 📍 **Japira, Paraná, Brasil**
 
