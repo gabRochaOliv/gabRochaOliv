@@ -77,6 +77,7 @@ Fora do código, gosto de **treinar** e passar tempo com **minha família**.
 *Projetos voltados para desenvolvimento **mobile cross-platform**.*
 
 - [**conta-libras**](https://github.com/gabRochaOliv/conta-libras): Aplicativo desenvolvido em **Flutter** com glossário de termos contábeis em **Libras**, incluindo texto, vídeo e representação gestual.
+⚠️ Aliás, nova versão sendo desenvolvida para o meu projeto de TCC, o repositório é privado, mas o site já está no ar (https://conta-libras.vercel.app/). 
 
 ---
 
