@@ -15,6 +15,8 @@
 ### 🛠️ Tecnologias Principais
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -46,11 +48,11 @@ Fora do código, gosto de **treinar** e passar tempo com **minha família**.
 
 ### 💼 Experiência & Formação
 
-| Período | Função / Curso | Instituição / Projeto |
-| :--- | :--- | :--- |
-| **2025 - 2025** | 🎓 Pesquisador (IA) | UENP - IA no Ensino Contábil |
-| **2024 - 2025** | 🐴 Full Stack Dev | Sistema de Gestão para Equoterapia |
-| **2023 - 2024** | 📱 Mobile Dev | App Glossário de Libras (Flutter) |
+| Período         | Função / Curso      | Instituição / Projeto                           |
+| :-------------- | :------------------ | :---------------------------------------------- |
+| **2025 - 2025** | 🎓 Pesquisador (IA) | UENP - IA no Ensino Contábil                    |
+| **2024 - 2025** | 🐴 Full Stack Dev   | Sistema de Gestão para Equoterapia              |
+| **2023 - 2024** | 📱 Mobile Dev       | App Glossário de Libras (Flutter)               |
 | **2022 - 2026** | 📚 B.Sc. Comp. Sci. | UENP - Universidade Estadual do Norte do Paraná |
 
 ---
@@ -64,47 +66,56 @@ Fora do código, gosto de **treinar** e passar tempo com **minha família**.
 ### 📂 Projetos & Repositórios
 
 #### 🚀 **Aplicações Web & SaaS**
+
 *Projetos focados em **UX/UI**, **performance** e **produtos digitais**.*
 
-- [**pause-for-her**](https://github.com/gabRochaOliv/pause-for-her): SaaS focado em bem-estar feminino com interface moderna. *(React / TypeScript)*  
-- [**pistache**](https://github.com/gabRochaOliv/pistache): Landing page para produto digital. (https://ovo-gourmet-eight.vercel.app/) 
-- [**quandoAmor**](https://github.com/gabRochaOliv/quandoAmor): Página focada em experiência visual e conversão.  
-- [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet): Aplicação web voltada para experiência do usuário. (https://gelagourmet.shop/)
+* [**pause-for-her**](https://github.com/gabRochaOliv/pause-for-her): SaaS focado em bem-estar feminino com interface moderna. *(React / TypeScript)*
+* [**pistache**](https://github.com/gabRochaOliv/pistache): Landing page para produto digital. (https://ovo-gourmet-eight.vercel.app/)
+* [**quandoAmor**](https://github.com/gabRochaOliv/quandoAmor): Página focada em experiência visual e conversão.
+* [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet): Aplicação web voltada para experiência do usuário. (https://gelagourmet.shop/)
 
 ---
 
 #### 📱 **Aplicações Mobile**
+
 *Projetos voltados para desenvolvimento **mobile cross-platform**.*
 
-- [**conta-libras**](https://github.com/gabRochaOliv/conta-libras): Aplicativo desenvolvido em **Flutter** com glossário de termos contábeis em **Libras**, incluindo texto, vídeo e representação gestual.
-- Aliás, nova versão sendo desenvolvida para o meu projeto de TCC, o repositório é privado, mas o site já está no ar (https://conta-libras.vercel.app/). 
+* [**conta-libras**](https://github.com/gabRochaOliv/conta-libras): Aplicativo desenvolvido em **Flutter** com glossário de termos contábeis em **Libras**, incluindo texto, vídeo e representação gestual.
+* Uma nova versão está sendo desenvolvida para o meu projeto de TCC. O repositório é privado, mas o site já está no ar: https://conta-libras.vercel.app/
 
 ---
 
 #### 🤖 **Inteligência Artificial**
+
 *Projetos acadêmicos relacionados a **IA e sistemas baseados em conhecimento**.*
 
-- [**basic-sistem-rbc**](https://github.com/gabRochaOliv/basic-sistem-rbc): Sistema simples baseado em **Raciocínio Baseado em Casos (RBC)**.  
-- [**basic-medicines-project**](https://github.com/gabRochaOliv/basic-medicines-project): Projeto acadêmico relacionado a sistemas de apoio com base em medicamentos.
+* [**basic-sistem-rbc**](https://github.com/gabRochaOliv/basic-sistem-rbc): Sistema simples baseado em **Raciocínio Baseado em Casos (RBC)**.
+* [**basic-medicines-project**](https://github.com/gabRochaOliv/basic-medicines-project): Projeto acadêmico relacionado a sistemas de apoio com base em medicamentos.
 
 ---
 
 #### 🧠 **Algoritmos & Estruturas de Dados**
+
 *Implementações de conceitos fundamentais da computação.*
 
-- [**sorting-algorithms**](https://github.com/gabRochaOliv/sorting-algorithms): Implementação de algoritmos clássicos de ordenação.  
-- [**binary-tree-project**](https://github.com/gabRochaOliv/binary-tree-project): Implementação e estudo de **árvores binárias**.
+* [**sorting-algorithms**](https://github.com/gabRochaOliv/sorting-algorithms): Implementação de algoritmos clássicos de ordenação.
+* [**binary-tree-project**](https://github.com/gabRochaOliv/binary-tree-project): Implementação e estudo de **árvores binárias**.
 
 ---
 
 #### 🖥️ **Sistemas e Arquitetura de Software**
+
 *Projetos acadêmicos focados em **modelagem de sistemas e arquitetura de software**.*
 
-- [**emprestimoLivroMVC**](https://github.com/gabRochaOliv/emprestimoLivroMVC): Sistema de empréstimo de livros utilizando arquitetura **MVC**.  
-- [**interpretador**](https://github.com/gabRochaOliv/interpretador): Projeto acadêmico envolvendo conceitos de **interpretadores e linguagens**.
----
-💡 Tem bastante coisa ai né?
+* [**emprestimoLivroMVC**](https://github.com/gabRochaOliv/emprestimoLivroMVC): Sistema de empréstimo de livros utilizando arquitetura **MVC**.
+* [**interpretador**](https://github.com/gabRochaOliv/interpretador): Projeto acadêmico envolvendo conceitos de **interpretadores e linguagens**.
 
-Esses são alguns dos projetos presentes no meu GitHub.  
-Para ver todos os repositórios, experimentos e projetos acadêmicos, confira a aba de repositórios no meu perfil:  
+---
+
+💡 **Tem bastante coisa por aqui, né?**
+
+Esses são alguns dos projetos presentes no meu GitHub.
+
+Para ver todos os repositórios, experimentos e projetos acadêmicos, confira a aba de repositórios no meu perfil:
+
 👉 https://github.com/gabRochaOliv?tab=repositories
