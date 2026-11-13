@@ -94,48 +94,51 @@ Fora do código, gosto de **treinar** e passar tempo com **minha família**.
 
 #### 🚀 **Aplicações Web & SaaS**
 
-*Projetos focados em **UX/UI**, **performance** e **produtos digitais**.*
-
-* [**pause-for-her**](https://github.com/gabRochaOliv/pause-for-her): SaaS focado em bem-estar feminino com interface moderna. *(React / TypeScript)*
-* [**pistache**](https://github.com/gabRochaOliv/pistache): Landing page para produto digital. (https://ovo-gourmet-eight.vercel.app/)
-* [**quandoAmor**](https://github.com/gabRochaOliv/quandoAmor): Página focada em experiência visual e conversão.
-* [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet): Aplicação web voltada para experiência do usuário. (https://gelagourmet.shop/)
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| [**gela-gourmet**](https://github.com/gabRochaOliv/gela-gourmet) | Site de produto com foco em UX e conversão | HTML, CSS, JavaScript, Python | [🔗 Site](https://gelagourmet.shop/) |
+| [**pistache**](https://github.com/gabRochaOliv/pistache) | Landing page de alta conversão para produto digital | HTML, CSS, JavaScript | — |
+| [**quandoAmor**](https://github.com/gabRochaOliv/quandoAmor) | Página focada em experiência visual e conversão | HTML, CSS, JavaScript | — |
 
 ---
 
 #### 📱 **Aplicações Mobile**
 
-*Projetos voltados para desenvolvimento **mobile cross-platform**.*
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| [**conta-libras**](https://github.com/gabRochaOliv/conta-libras) | Glossário de termos contábeis em **Libras** (texto, vídeo e gesto) | Flutter, Dart | [🔗 Site](https://conta-libras.vercel.app/) |
+| [**fire-funk**](https://github.com/gabRochaOliv/fire-funk) | App de streaming de música com autenticação e banco em nuvem | Flutter, Firebase, Firestore, SQLite | — |
 
-* [**conta-libras**](https://github.com/gabRochaOliv/conta-libras): Aplicativo desenvolvido em **Flutter** com glossário de termos contábeis em **Libras**, incluindo texto, vídeo e representação gestual.
-* Uma nova versão está sendo desenvolvida para o meu projeto de TCC. O repositório é privado, mas o site já está no ar: https://conta-libras.vercel.app/
+> 🔒 Uma nova versão do **conta-libras** está em desenvolvimento como meu **TCC** — o repositório é privado, mas o site já está no ar.
+
+---
+
+#### ⚙️ **Backend, APIs & Sistemas Distribuídos**
+
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| [**api-apostadores-fight**](https://github.com/gabRochaOliv/api-apostadores-fight) | API REST de apostadores com autenticação JWT | Node.js, Express, TypeScript, SQLite, Vercel | — |
+| [**integrador-fight**](https://github.com/gabRochaOliv/integrador-fight) | API integradora com autenticação e consumo de serviços | Node.js, Express, TypeScript, JWT | — |
+| [**jobtrack**](https://github.com/gabRochaOliv/jobtrack) | Sistema de gestão de candidaturas a vagas | Django, Python | — |
+| [**corretora-distribuida**](https://github.com/gabRochaOliv/corretora-distribuida) | Corretora com arquitetura de sistemas distribuídos | Java | — |
 
 ---
 
 #### 🤖 **Inteligência Artificial**
 
-*Projetos acadêmicos relacionados a **IA e sistemas baseados em conhecimento**.*
-
-* [**basic-sistem-rbc**](https://github.com/gabRochaOliv/basic-sistem-rbc): Sistema simples baseado em **Raciocínio Baseado em Casos (RBC)**.
-* [**basic-medicines-project**](https://github.com/gabRochaOliv/basic-medicines-project): Projeto acadêmico relacionado a sistemas de apoio com base em medicamentos.
-
----
-
-#### 🧠 **Algoritmos & Estruturas de Dados**
-
-*Implementações de conceitos fundamentais da computação.*
-
-* [**sorting-algorithms**](https://github.com/gabRochaOliv/sorting-algorithms): Implementação de algoritmos clássicos de ordenação.
-* [**binary-tree-project**](https://github.com/gabRochaOliv/binary-tree-project): Implementação e estudo de **árvores binárias**.
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| [**basic-sistem-rbc**](https://github.com/gabRochaOliv/basic-sistem-rbc) | Sistema de **Raciocínio Baseado em Casos (RBC)** | Python | — |
+| [**algorithms-IA**](https://github.com/gabRochaOliv/algorithms-IA) | Algoritmos de busca e otimização para IA | Python | — |
 
 ---
 
-#### 🖥️ **Sistemas e Arquitetura de Software**
+#### 🖥️ **Sistemas & Arquitetura de Software**
 
-*Projetos acadêmicos focados em **modelagem de sistemas e arquitetura de software**.*
-
-* [**emprestimoLivroMVC**](https://github.com/gabRochaOliv/emprestimoLivroMVC): Sistema de empréstimo de livros utilizando arquitetura **MVC**.
-* [**interpretador**](https://github.com/gabRochaOliv/interpretador): Projeto acadêmico envolvendo conceitos de **interpretadores e linguagens**.
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| [**interpretador**](https://github.com/gabRochaOliv/interpretador) | Estudo de interpretadores e linguagens de programação | C# | — |
+| [**emprestimoLivroMVC**](https://github.com/gabRochaOliv/emprestimoLivroMVC) | Sistema de empréstimo de livros em arquitetura **MVC** | Java | — |
 
 ---
 
